@@ -38,27 +38,7 @@ const Contact = () => {
   return (
     <div className="pt-20 bg-gradient-to-b from-green-50 via-white to-green-50">
       {/* Hero Section with Botanical Theme */}
-      <section className="relative py-24 bg-gradient-to-br from-green-600 via-emerald-600 to-teal-700 overflow-hidden">
-        {/* Decorative Elements */}
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute top-10 left-10 w-32 h-32 border-4 border-white rounded-full"></div>
-          <div className="absolute bottom-20 right-20 w-48 h-48 border-4 border-white rounded-full"></div>
-          <div className="absolute top-1/2 left-1/4 w-24 h-24 border-4 border-white rounded-full"></div>
-        </div>
-        
-        <div className="container mx-auto px-4 text-center relative z-10">
-          <div className="inline-flex items-center justify-center w-20 h-20 bg-white/20 backdrop-blur-sm rounded-full mb-6 animate-fade-in">
-            <Leaf className="w-10 h-10 text-white" />
-          </div>
-          <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 animate-fade-in">
-            Let's Grow Together
-          </h1>
-          <p className="text-xl md:text-2xl text-white/95 max-w-3xl mx-auto leading-relaxed animate-slide-up">
-            Your dream garden awaits. Reach out to the Pushpvatika team for personalized landscaping solutions that bring nature to your doorstep.
-          </p>
-        </div>
-      </section>
-
+      
       {/* Contact Info Section */}
       <section className="py-20 relative">
         <div className="container mx-auto px-4">
