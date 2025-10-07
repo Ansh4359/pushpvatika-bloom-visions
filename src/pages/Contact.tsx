@@ -22,7 +22,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@pushpvatika.com", "support@pushpvatika.com"],
+      details: ["pushpvatikadecor@gmail.com"],
       color: "from-teal-500 to-cyan-500",
     },
     {
