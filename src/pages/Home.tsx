@@ -40,7 +40,7 @@ const Home = () => {
         </div>
         
         <div className="relative z-10 container mx-auto px-4 text-center text-primary-foreground animate-fade-in">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
             Transform Your Outdoor Space
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto text-primary-foreground/90">

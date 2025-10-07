@@ -9,7 +9,9 @@ import {
   TreePine, 
   Waves, 
   CircleDot, 
-  Droplets 
+  Droplets,
+  Leaf,
+  Apple
 } from "lucide-react";
 
 const Services = () => {
@@ -25,6 +27,12 @@ const Services = () => {
       title: "Maintenance",
       description: "Comprehensive maintenance programs to keep your landscape looking its best year-round. Regular care ensures lasting beauty.",
       features: ["Lawn Care", "Pruning", "Fertilization", "Seasonal Cleanup"],
+    },
+    {
+      icon: Leaf,
+      title: "Natural & Artificial Plants",
+      description: "Offering both natural and artificial plant solutions with premium quality artificial grass installation. Perfect for low-maintenance, year-round greenery.",
+      features: ["Artificial Grass Installation", "Faux Plants & Trees", "Natural Plant Arrangements", "Water-Saving Solutions"],
     },
     {
       icon: Home,
@@ -45,16 +53,16 @@ const Services = () => {
       features: ["Native Plants", "Ornamentals", "Trees & Shrubs", "Seasonal Flowers"],
     },
     {
+      icon: Apple,
+      title: "Kitchen Garden",
+      description: "Design and setup of productive kitchen gardens for terraces and backyards. Grow your own fresh, organic vegetables, herbs, and fruits at home.",
+      features: ["Vegetable Gardens", "Herb Stations", "Fruit Trees", "Organic Gardening Methods"],
+    },
+    {
       icon: Waves,
       title: "Water Features",
       description: "Design and installation of beautiful water features that add tranquility and visual interest to your landscape.",
       features: ["Ponds & Fountains", "Waterfalls", "Streams", "Koi Ponds"],
-    },
-    {
-      icon: CircleDot,
-      title: "Swimming Pools",
-      description: "Custom swimming pool design and construction, seamlessly integrated into your landscape design.",
-      features: ["Pool Design", "Construction", "Landscaping", "Pool Maintenance"],
     },
     {
       icon: Droplets,

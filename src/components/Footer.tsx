@@ -21,7 +21,7 @@ const Footer = () => {
 
           {/* Quick Links */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">Quick Links</h3>
             <ul className="space-y-2">
               {["Home", "About", "Services", "Gallery", "Contact"].map((item) => (
                 <li key={item}>
@@ -38,7 +38,7 @@ const Footer = () => {
 
           {/* Services */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Services</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white" >Services</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>Landscape Development</li>
               <li>Maintenance</li>
@@ -50,15 +50,15 @@ const Footer = () => {
 
           {/* Contact Info */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">Contact Us</h3>
             <ul className="space-y-3">
               <li className="flex items-start space-x-2 text-sm text-primary-foreground/80">
                 <MapPin className="h-4 w-4 mt-1 flex-shrink-0" />
-                <span>123 Garden Street, Green Valley, GV 12345</span>
+                <span>Pal Colony Near Gram Panchayat Chandayan Baghpat, Uttar Pradesh (250645)</span>
               </li>
               <li className="flex items-center space-x-2 text-sm text-primary-foreground/80">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7078461752</span>
               </li>
               <li className="flex items-center space-x-2 text-sm text-primary-foreground/80">
                 <Mail className="h-4 w-4 flex-shrink-0" />
@@ -82,13 +82,7 @@ const Footer = () => {
               >
                 <Instagram className="h-4 w-4" />
               </a>
-              <a
-                href="#"
-                className="h-8 w-8 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-colors"
-                aria-label="LinkedIn"
-              >
-                <Linkedin className="h-4 w-4" />
-              </a>
+            
             </div>
           </div>
         </div>
