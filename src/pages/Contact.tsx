@@ -158,7 +158,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 7078461752", "+91 9958824879"],
+      details: ["+91 7078461752 (Vikash)", "+91 9958824879","8797875734 (Mithun)"],
     },
     {
       icon: Mail,

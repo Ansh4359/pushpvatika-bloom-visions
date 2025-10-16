@@ -346,7 +346,7 @@ const Home = () => {
               color: '#6EE7B7', 
               textShadow: '0 2px 12px rgba(74,222,128,0.3)' 
             }}>
-              Why Choose Pushpvatika?
+              Why Choose PushpLandscaping?
             </h2>
             <p className="text-xl md:text-2xl max-w-4xl mx-auto leading-relaxed font-light" style={{ color: '#D1FAE5' }}>
               We combine expertise, creativity, and passion to create outdoor spaces that inspire

@@ -263,7 +263,7 @@ const About = () => {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.2, duration: 0.7 }}
             >
-              About Pushpvatika
+              About PushpLandscaping
             </motion.h1>
             <motion.p
               className="text-2xl md:text-3xl max-w-4xl mx-auto font-light"
@@ -301,7 +301,7 @@ const About = () => {
                 animate="visible"
               >
                 <motion.p variants={itemVariants} className="font-light">
-                  Pushpvatika was born from a deep appreciation for nature and a vision to transform outdoor spaces into living works of art. Our journey began with a simple belief: that every landscape has the potential to become extraordinary.
+                  PushpLandscaping was born from a deep appreciation for nature and a vision to transform outdoor spaces into living works of art. Our journey began with a simple belief: that every landscape has the potential to become extraordinary.
                 </motion.p>
                 <motion.p variants={itemVariants} className="font-light">
                   With years of experience in landscape development, maintenance, and design, we've built a reputation for excellence and innovation. Our team combines traditional horticultural knowledge with modern techniques to create sustainable, beautiful outdoor environments.

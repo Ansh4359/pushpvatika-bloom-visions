@@ -64,7 +64,7 @@ const Navbar = () => {
                 isTransparent ? 'text-white' : 'text-green-600'
               }`}
             >
-              Pushpvatika
+              PushpLandscaping
             </span>
           </Link>
 

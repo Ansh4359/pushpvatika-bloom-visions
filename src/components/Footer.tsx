@@ -107,7 +107,7 @@ const Footer = () => {
                 <Leaf className="h-8 w-8 text-white" />
               </div>
               <span className="text-2xl font-bold" style={{ color: '#6EE7B7', textShadow: '0 2px 8px rgba(74,222,128,0.3)' }}>
-                Pushpvatika
+                PushpLandscaping
               </span>
             </motion.div>
             <p className="text-base leading-relaxed font-light" style={{ color: '#D1FAE5' }}>
@@ -244,7 +244,7 @@ const Footer = () => {
           }}
           variants={itemVariants}
         >
-          <p>&copy; {new Date().getFullYear()} Pushpvatika. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} PushpLandscaping. All rights reserved.</p>
         </motion.div>
       </motion.div>
     </footer>
