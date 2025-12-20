@@ -403,7 +403,7 @@ const Gallery = () => {
             }}>
               Complete Portfolio
             </h2>
-            <div className="w-24 h-1 mx-auto rounded-full" style={{ 
+            <div className="w-25 h-1 mx-auto rounded-full" style={{ 
               background: 'linear-gradient(90deg, #22C55E 0%, #10B981 100%)' 
             }}></div>
           </motion.div>
