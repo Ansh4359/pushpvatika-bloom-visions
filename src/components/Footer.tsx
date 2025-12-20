@@ -173,7 +173,8 @@ const Footer = () => {
               >
                 <MapPin className="h-5 w-5 mt-1 flex-shrink-0" style={{ color: '#4ADE80' }} />
                 <span>Pal Colony Near Gram Panchayat Chandayan Baghpat, Uttar Pradesh (250645)</span>
-                <span>2nd Office Pal Electronics Shop Bega road Ganour Sonipat Haryana</span>
+                {/* <span>2nd Office Pal Electronics Shop Bega road Ganour Sonipat Haryana</span> */}
+                <span>Ullawas Near mitha kuwa Gali-no 9,sector 61, Gurugram Haryana 122101</span>
               </motion.li>
               <motion.li 
                 className="flex items-center space-x-3 text-base font-light"

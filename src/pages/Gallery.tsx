@@ -146,10 +146,10 @@ const Gallery = () => {
   const featuredProjects = [
     {
       id: 1,
-      title: "Tranquil Water Garden",
-      category: "Water Features",
-      image: "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816062/IMG-20251002-WA0080_wpa4eg.jpg",
-      description: "Beautiful koi pond with natural stone features and lush plantings",
+      title: "Natural Flower Installation",
+      category: "Natural Solutions",
+      image: "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260816/WhatsApp_Image_2025-12-17_at_9.45.36_PM_1_dh1iu0.jpg",
+      description: "Low-maintenance natural flower perfect for year-round greenery",
     },
     {
       id: 2,
@@ -186,6 +186,13 @@ const Gallery = () => {
       image: "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816073/IMG-20251002-WA0047_mj9ht4.jpg",
       description: "Low-maintenance artificial grass perfect for year-round greenery",
     },
+     {
+      id: 7,
+      title: "Tranquil Water Garden",
+      category: "Water Features",
+      image: "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816062/IMG-20251002-WA0080_wpa4eg.jpg",
+      description: "Beautiful koi pond with natural stone features and lush plantings",
+    },
   ];
 
   const galleryImages = [
@@ -200,6 +207,13 @@ const Gallery = () => {
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816068/IMG-20251002-WA0072_kjz5us.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816067/IMG-20251002-WA0053_b411tu.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816072/IMG-20251002-WA0076_ddktyf.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260816/WhatsApp_Image_2025-12-17_at_9.45.33_PM_c2nyo2.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260816/WhatsApp_Image_2025-12-17_at_9.45.36_PM_ko40gc.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260816/WhatsApp_Image_2025-12-17_at_9.45.42_PM_anvnhj.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260815/WhatsApp_Image_2025-12-17_at_9.45.40_PM_y9stzo.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260814/WhatsApp_Image_2025-12-17_at_9.45.34_PM_cbytk2.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260814/WhatsApp_Image_2025-12-17_at_9.45.31_PM_vkogwi.jpg",
+    "https://res.cloudinary.com/dt1evns9n/image/upload/v1766260815/WhatsApp_Image_2025-12-17_at_9.45.33_PM_1_aebaxi.jpg"
   ];
 
   const containerVariants = {
@@ -297,12 +311,12 @@ const Gallery = () => {
             transition={{ duration: 0.7, delay: 0.6 }}
           >
             <div className="mb-6">
-              <h2 className="text-3xl md:text-4xl font-bold mb-3" style={{ 
+              {/* <h2 className="text-3xl md:text-4xl font-bold mb-3" style={{ 
                 color: '#6EE7B7',
                 textShadow: '0 2px 10px rgba(74,222,128,0.2)'
               }}>
                 Featured Projects
-              </h2>
+              </h2> */}
               <div className="w-20 h-1 rounded-full" style={{ 
                 background: 'linear-gradient(90deg, #22C55E 0%, #10B981 100%)' 
               }}></div>

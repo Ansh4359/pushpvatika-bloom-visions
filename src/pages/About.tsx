@@ -327,7 +327,7 @@ const About = () => {
                 transition={{ delay: 0.9, duration: 0.7 }}
               />
               <motion.img
-                src={aboutImage}
+                src={"https://res.cloudinary.com/dt1evns9n/image/upload/v1766260816/WhatsApp_Image_2025-12-17_at_9.45.36_PM_1_dh1iu0.jpg"}
                 alt="Pushpvatika team at work"
                 className="rounded-3xl w-full h-auto relative z-10"
                 style={{ boxShadow: '0 25px 60px rgba(0,0,0,0.6)' }}
