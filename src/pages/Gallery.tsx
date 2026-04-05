@@ -258,7 +258,7 @@ const Gallery = () => {
       }}>
         <LightForestBackground />
         <BranchBorder position="top" />
-        
+        {/* HI÷ */}
         {/* Decorative elements */}
         <div className="absolute top-10 left-10 w-32 h-32 rounded-full" style={{ 
           border: '3px solid rgba(110,231,183,0.3)',
