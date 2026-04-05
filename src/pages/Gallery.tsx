@@ -201,7 +201,6 @@ const Gallery = () => {
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816078/IMG-20251002-WA0023_gc3ege.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816078/IMG-20251002-WA0027_ggnfqc.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816076/IMG-20251002-WA0026_qq3d6q.jpg",
-    "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816077/IMG-20251002-WA0021_ynkdak.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816078/IMG-20251002-WA0019_sksdtp.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816076/IMG-20251002-WA0028_syjcks.jpg",
     "https://res.cloudinary.com/dd3fmtksn/image/upload/v1759816068/IMG-20251002-WA0072_kjz5us.jpg",
