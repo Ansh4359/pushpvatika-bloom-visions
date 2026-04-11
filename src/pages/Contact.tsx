@@ -151,7 +151,7 @@ const Contact = () => {
       icon: MapPin,
       title: "Visit Us",
       details: [
-        "Pal Colony Near Gram Panchayat Chandayan Baghpat, Uttar Pradesh 250645",
+        "Plot no 103, Sector 18, Gurugram, Sarhol, Haryana 122015",
 
       ],
     },
